@@ -76,9 +76,7 @@ Developed visuals covering:
 ## 📦 Deliverables
 
 - **Interactive Power BI dashboard (.pbix)**  
-- **Final analysis report (PDF)**  
-- **Presentation deck with live walkthrough**  
-
+- **Ecommerce Sales report**  
 ---
 
 ## 🛠️ Tools & Skills
