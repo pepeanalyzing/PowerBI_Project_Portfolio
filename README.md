@@ -85,7 +85,3 @@ Developed visuals covering:
 
 **Power BI · Power Query · DAX · Azure SQL · Data Modelling · Time Intelligence · Forecasting · Data Storytelling**
 
----
-
-## 📁 Repository Structure
-
